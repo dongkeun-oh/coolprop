@@ -30,7 +30,7 @@
   compiler that is going to be used with the compiled library.
   \sa OPEN_MODELICA
 */
-#define DYMOLA 1
+#define DYMOLA 0
 
 //! Modelica compiler is OpenModelica
 /*!
@@ -38,7 +38,7 @@
   compiler that is going to be used with the compiled library.
   \sa DYMOLA
 */
-#define OPEN_MODELICA 0
+#define OPEN_MODELICA 1
 
 // Selection of used external fluid property computation packages.
 //! FluidProp solver	

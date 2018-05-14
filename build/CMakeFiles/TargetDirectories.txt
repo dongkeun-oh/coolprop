@@ -1,0 +1,3 @@
+/Users/spinhalf/Documents/Modelica/ExternalMedia/externals/coolprop/build/CMakeFiles/rebuild_cache.dir
+/Users/spinhalf/Documents/Modelica/ExternalMedia/externals/coolprop/build/CMakeFiles/edit_cache.dir
+/Users/spinhalf/Documents/Modelica/ExternalMedia/externals/coolprop/build/CMakeFiles/CoolProp.dir
